@@ -144,6 +144,9 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
+  i18n: {
+    defaultLocale: 'zh_CN',
+  },
 };
 
 module.exports = config;
